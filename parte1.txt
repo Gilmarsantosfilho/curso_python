@@ -23,8 +23,8 @@ https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga
 ########################################################################
 #  comando import ("COM EXPLICAÇÃO BEM EXPLICADO")                                                                                                                                 
 #                                                                                                                                                             
-#   import pyautogui =                                                                                                                       #
-#   import pyperclip =                                                                                                                         #
+#   import pyautogui = mause,teclado e monitor o que faria normalmente                                                                         #                                                   
+#   import pyperclip =  copiar e colar funções da área de transferência                                                                       #                                           
 #   import time = tempo                                                                                                                     
 #   import panda=  é um biblioteca para manipulação e análise de dados, escrita em Python #                                                                            
 ########################################################################
