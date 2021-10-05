@@ -9,24 +9,24 @@ https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga
 
 #passo 1
 ############################
-# Instalar as seguintes blibioteca    #
-#  para funcionar                               #
+# Instalar as seguintes blibioteca    
+#  para funcionar                               
 ############################
-#   pip install pyautogui                    #
-#   pip install pyperclip                      #
+#   pip install pyautogui                    
+#   pip install pyperclip                      
 ########################## ##  
 
-############################################################
-# anotar o caminho primeiro manual e depois para para linguagem python  #
+###########################################################
+# anotar o caminho primeiro manual e depois para para linguagem python  
 ############################################################
 
 ########################################################################
-#  comando import ("COM EXPLICAÇÃO BEM EXPLICADO")                                                        #                                                                         
-#                                                                                                                                                             #
+#  comando import ("COM EXPLICAÇÃO BEM EXPLICADO")                                                                                                                                 
+#                                                                                                                                                             
 #   import pyautogui =                                                                                                                       #
 #   import pyperclip =                                                                                                                         #
-#   import time = tempo                                                                                                                     #
-#   import panda=  é um biblioteca para manipulação e análise de dados, escrita em Python #                                                                            #
+#   import time = tempo                                                                                                                     
+#   import panda=  é um biblioteca para manipulação e análise de dados, escrita em Python #                                                                            
 ########################################################################
 
 #################################################################
@@ -34,16 +34,16 @@ https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga
 #################################################################
 
 ##########################################
-# pyautogui.hotkay = hotkay=atalho +("ctrl", "t")     #
+# pyautogui.hotkay = hotkay=atalho +("ctrl", "t")    
 ##########################################
 
 #################################
-# pyautogui.click()=clicar algum lugar     #
+# pyautogui.click()=clicar algum lugar    
 #################################
 
 #############################################################
-# pyautogui.write=escrever link ou texto ("www.textodeemplo.com.br")         #
-# pyauto.press=dar entrer + ("entrer")                                                                   #
+# pyautogui.write=escrever link ou texto ("www.textodeemplo.com.br")         
+# pyauto.press=dar entrer + ("entrer")                                                                   
 #############################################################
 
 ##########################
@@ -66,34 +66,34 @@ https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga
 ##########################################################################################
 # LISTAR TABELA DE FORMA AUTOMATICA                                                                                                                           #
 #  import pandas as pd                                                                                                                                                                 #
-# tabela = pd.red._exel(r"C:\Users\Gilmar-PC\Downloads\Codigo VB pega senhas.txt" = CAMINHA DA TABELA      #
+# tabela = pd.red._exel(r"C:\Users\Gilmar-PC\Downloads\Codigo VB pega senhas.txt" = CAMINHA DA TABELA      
 ##########################################################################################
 
 #############################################
-# somar a tabela automatica                                                #     
-#                                                                                                # 
-#faturamento = tabela ["Valor Final].sum()                       #
-#quantidade +tabela ["Quantidade"].sum()                       #
+# somar a tabela automatica                                                     
+#                                                                                                
+#faturamento = tabela ["Valor Final].sum()                       
+#quantidade +tabela ["Quantidade"].sum()                       
 #############################################
 
 
 ####################################
-#entrar em qual quer email                                #
-#                                                                              #
-# pyautogui.hotkay ("ctrl", "t")                          # 
-#  pyperclip.copy("link do gmail")                      #
-#   pyperclip.copy ("ctrl", "v")                              #
+#entrar em qual quer email                                
+#                                                                              
+# pyautogui.hotkay ("ctrl", "t")                          
+#  pyperclip.copy("link do gmail")                      
+#   pyperclip.copy ("ctrl", "v")                              
 #####################################
 
 
 ##################################################
-# enviar email                                                                                     #
-#seugmail+ditorotia@gmail.com                                                    #
+# enviar email                                                                                     
+#seugmail+ditorotia@gmail.com                                                    
 ##################################################
 
 ######################################
-# escrever email                                                       #
-#pyautogui.click(mais a posição do mause)        #
+# escrever email                                                       
+#pyautogui.click(mais a posição do mause)        
 ###################################### 
 
 
@@ -112,7 +112,7 @@ texto =
 mais hora
 
 Abs
-Gimar Test
+Autor de  Test
 pyerclip.copy(texto)
 pyautogui.hotkay("ctrl", "v")
 
