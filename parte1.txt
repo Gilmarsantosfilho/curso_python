@@ -1,0 +1,125 @@
+#python2021
+#GilmarFilho
+#04/10/2021
+
+
+aula 1 print("automação de tarefas")
+https://www.youtube.com/watch?v=RjgoceBB6Ms
+https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga
+
+#passo 1
+############################
+# Instalar as seguintes blibioteca    #
+#  para funcionar                               #
+############################
+#   pip install pyautogui                    #
+#   pip install pyperclip                      #
+########################## ##  
+
+############################################################
+# anotar o caminho primeiro manual e depois para para linguagem python  #
+############################################################
+
+########################################################################
+#  comando import ("COM EXPLICAÇÃO BEM EXPLICADO")                                                        #                                                                         
+#                                                                                                                                                             #
+#   import pyautogui =                                                                                                                       #
+#   import pyperclip =                                                                                                                         #
+#   import time = tempo                                                                                                                     #
+#   import panda=  é um biblioteca para manipulação e análise de dados, escrita em Python #                                                                            #
+########################################################################
+
+#################################################################
+# time.sleep(1) = coloca a pagina para dormir ("tempo da pagna para carregar(1)" #
+#################################################################
+
+##########################################
+# pyautogui.hotkay = hotkay=atalho +("ctrl", "t")     #
+##########################################
+
+#################################
+# pyautogui.click()=clicar algum lugar     #
+#################################
+
+#############################################################
+# pyautogui.write=escrever link ou texto ("www.textodeemplo.com.br")         #
+# pyauto.press=dar entrer + ("entrer")                                                                   #
+#############################################################
+
+##########################
+# pyautogui.write("Seu Login")  #
+# pyautogui.write("Sua senha")  #      
+############################
+
+############################################
+# pyautogui.PAUSE= (1) ficar mais lento da uma pausa #
+############################################
+
+#######################################
+# pyperclip.copy = copia um link ou um endereço #
+#######################################
+
+##################################################
+# pyautogui.position()=mostar a posição a onde o mause está   #
+##################################################
+
+##########################################################################################
+# LISTAR TABELA DE FORMA AUTOMATICA                                                                                                                           #
+#  import pandas as pd                                                                                                                                                                 #
+# tabela = pd.red._exel(r"C:\Users\Gilmar-PC\Downloads\Codigo VB pega senhas.txt" = CAMINHA DA TABELA      #
+##########################################################################################
+
+#############################################
+# somar a tabela automatica                                                #     
+#                                                                                                # 
+#faturamento = tabela ["Valor Final].sum()                       #
+#quantidade +tabela ["Quantidade"].sum()                       #
+#############################################
+
+
+####################################
+#entrar em qual quer email                                #
+#                                                                              #
+# pyautogui.hotkay ("ctrl", "t")                          # 
+#  pyperclip.copy("link do gmail")                      #
+#   pyperclip.copy ("ctrl", "v")                              #
+#####################################
+
+
+##################################################
+# enviar email                                                                                     #
+#seugmail+ditorotia@gmail.com                                                    #
+##################################################
+
+######################################
+# escrever email                                                       #
+#pyautogui.click(mais a posição do mause)        #
+###################################### 
+
+
+######################################################
+pyautogui.write("seugmail+ditorotia@gmail.com")                               
+pyautogui.press("tab")
+pyautogui.press("tab")
+pyperclip.copy("mensagem de teste")
+pyautogui.hotkay("ctrl", "v")
+pyautogui.press("tab") #pular pro corpo do email
+
+texto =
+ Bom dia! Esse é um texto de texte
+   
+  Como está o clima ai em japão
+mais hora
+
+Abs
+Gimar Test
+pyerclip.copy(texto)
+pyautogui.hotkay("ctrl", "v")
+
+
+#############################################
+
+MUITO OBRIGADO! ATÉ APROXIMA
+
+###################################################
+
